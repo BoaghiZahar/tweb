@@ -10,18 +10,7 @@ import {Layout} from "antd";
 import {FormLayout} from "./Layouts/FormLayout";
 function App() {
   return (
-      <Layout>
-        <>
-      <HeaderLayout/>
-          </>
-          <div style={{ padding: '100px 50px 50px 50px'
-          }}>
-  <Mycontent />
-          </div>
-      <h1 style={{textAlign:'center'}}>My Form</h1>
-          <FormLayout/>
 
-        </Layout>
   );
 }
 
