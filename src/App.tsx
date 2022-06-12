@@ -15,9 +15,13 @@ function App() {
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
+
+
         >
           <div></div>
           Grupa:CR-192
+
+
         </a>
       </header>
     </div>
